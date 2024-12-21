@@ -5,6 +5,9 @@ The "Science Experiment Challenges with Rewards for Innovative Ideas" project is
 
 ## Contract Address
 0xD56e9b51C0B91f6caa47FE90A6e9A56B80A2fC1D
+![image](https://github.com/user-attachments/assets/829ce148-4eea-49b9-b69b-c37f57887bc2)
+
+
 ## Project Vision
 Our vision is to create a vibrant community where innovative scientific ideas can flourish. By providing a platform for idea submission and voting, we aim to incentivize creativity and collaboration among individuals passionate about science. We believe that rewarding innovative ideas will lead to groundbreaking experiments and discoveries.
 
